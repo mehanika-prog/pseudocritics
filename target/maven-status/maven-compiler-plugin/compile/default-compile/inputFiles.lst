@@ -1,0 +1,13 @@
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/database/SessionRepository.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/BCrypt.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/controllers/RegistrationController.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/domain/Session.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/Application.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/controllers/LogInController.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/domain/User.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/domain/Role.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/database/UserRepository.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/domain/SessionType.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/domain/dto/RegisterRequest.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/domain/dto/LoginRequest.java
+/Volumes/Files/Programing/pseudocritics/src/main/java/com/pseudocritics/controllers/LogOutController.java
